@@ -1,0 +1,11 @@
+Radio Device Configuration:
+	In this module we will configure the radio devices with sensors and add network parameters to communicate with other devices in network.
+
+Gateway Configuration:
+	Configuration of Gateway Device i.e. BeagleBone Device with the radio devices and access-point to store the readings in database.
+
+Web Application:
+	Web Application will be used to handle the environment parameters and analyse them and acknowledge the farmers. Devices can be operated remotely using web application.
+
+Mobile Application
+	We can monitor the parameters and operate the devices remotely from mobile application.

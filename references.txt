@@ -1,0 +1,3 @@
+[]https://en.wikipedia.org/wiki/BeagleBoard#BeagleBone_Black
+
+https://www.sparkfun.com/pages/xbee_guide

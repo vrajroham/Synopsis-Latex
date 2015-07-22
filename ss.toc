@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Keywords}{2}
+\contentsline {section}{\numberline {2}Project Description}{2}
+\contentsline {section}{\numberline {3}Scope}{3}
+\contentsline {section}{\numberline {4}Objective}{3}
+\contentsline {section}{\numberline {5}Review of Conference/Journal Papers and Relevant Theory}{4}
+\contentsline {subsection}{\numberline {5.1}Agriculture Field Monitoring and Analysis using Wireless Sensor Networks for improving Crop Production}{4}
+\contentsline {subsection}{\numberline {5.2}Wireless Sensor Network for Precise Agriculture Monitoring}{4}
+\contentsline {subsection}{\numberline {5.3}Design and Development of Precision Agriculture System Using Wireless Sensor Network}{4}
+\contentsline {subsection}{\numberline {5.4}Wireless Sensor Networks: Apple farming in Northern India}{5}
+\contentsline {subsection}{\numberline {5.5}An environment monitoring system for precise agriculture based on wireless sensor networks}{5}
+\contentsline {subsection}{\numberline {5.6}Study on Precision Agriculture Monitoring Framework Based on WSN}{5}
+\contentsline {subsection}{\numberline {5.7}A\ensuremath {^2}S: Automated Agriculture System based on WSN}{6}
+\contentsline {subsection}{\numberline {5.8}Smart Farm: Extending Automation To The Farm Level}{6}
+\contentsline {subsection}{\numberline {5.9}BeagleBone Black}{6}
+\contentsline {subsection}{\numberline {5.10} Zigbee Device (XBee)}{7}
+\contentsline {section}{\numberline {6}System Architecture/ Module Details}{8}
+\contentsline {subsection}{\numberline {6.1}Existing System}{8}
+\contentsline {subsection}{\numberline {6.2}Proposed System Module Details}{10}
+\contentsline {section}{\numberline {7}System Requirements}{12}
+\contentsline {subsection}{\numberline {7.1}Hardware Requirements}{12}
+\contentsline {subsection}{\numberline {7.2}Software Requirements}{13}
+\contentsline {section}{\numberline {8}Project Execution Plan}{14}
+\contentsline {subsection}{\numberline {8.1}Semester 1}{14}
+\contentsline {section}{\numberline {9}Application/Usefulness}{15}
+\contentsline {section}{\numberline {10}Conclusion}{15}
+\contentsline {section}{\hspace {6mm}REFERENCES}{15}
