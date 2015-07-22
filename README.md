@@ -6,6 +6,6 @@ Project Synopsis prepared in Latex.
 Extra Packages may be required to compile the documentaion.
 
 Editors : 
-VaibhavraJ RohaM [vaibhavraj.roham@gmail.com]
-Abhijeet Patil []
+VaibhavraJ RohaM [vaibhavraj.roham@gmail.com] <br>
+Abhijeet Patil [abhijeetpatil1994@gmail.com] <br>
 Shubham Raut [shubham2546@live.com]
